@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [satyamp.in](satyamp.in)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **satyampandey24jn@gmail.com**
 
